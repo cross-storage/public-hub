@@ -1,0 +1,1 @@
+<script src="//<?= $Basedomain ?>/js/hub.js"></script>
